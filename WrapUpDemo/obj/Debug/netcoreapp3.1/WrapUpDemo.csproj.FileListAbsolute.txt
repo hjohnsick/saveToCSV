@@ -1,0 +1,13 @@
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.exe
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.deps.json
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.runtimeconfig.json
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.runtimeconfig.dev.json
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.dll
+C:\Git\WrapUpDemo\WrapUpDemo\bin\Debug\netcoreapp3.1\WrapUpDemo.pdb
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.csprojAssemblyReference.cache
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.AssemblyInfoInputs.cache
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.AssemblyInfo.cs
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.dll
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.pdb
+C:\Git\WrapUpDemo\WrapUpDemo\obj\Debug\netcoreapp3.1\WrapUpDemo.genruntimeconfig.cache
